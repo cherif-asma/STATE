@@ -21,15 +21,15 @@ class App extends Component {
   handleDanielClick = () => {
     this.setState({
       name: 'Daniel',
-      photo: 'https://www.robohash.org/harold2?set=set3',
+      photo: 'https://www.robohash.org/Danie?set=set3',
       description: 'I am a web developer'  })
   }
 
   handleSarraClick = () => {
     this.setState({
       name: 'Sarra',
-      photo: 'https://www.robohash.org/Danie?set=set3',
-      description: 'My name is Sara'
+      photo: 'https://www.robohash.org/sarra2?set=set3',
+      description: 'My name is Sarra'
     })
   }
 
